@@ -1,0 +1,5 @@
+
+[
+  { "Act as": "act 1", "System-Prompt": "prompt 1" },
+  { "Act as": "act 2", "System-Prompt": "prompt 2" }
+]
