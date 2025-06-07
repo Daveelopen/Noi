@@ -9,7 +9,7 @@
       "matches": [
         "<all_urls>"
       ],
-      "js": ["base.js", "scrollbar.js", "darg.js"],
+      "js": ["base.js", "scrollbar.js", "drag.js"],
       "run_at": "document_end",
       "world": "MAIN"
     }
